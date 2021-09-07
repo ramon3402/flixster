@@ -1,3 +1,20 @@
-# flixster
+## Flix Part 2
 
-Hello World
+### User Stories
+
+#### REQUIRED (10pts)
+- [ x] (5pts) User can tap a cell to see more details about a particular movie.
+- [ x] (5pts) User can tap a tab bar button to view a grid layout of Movie Posters using a CollectionView.
+
+#### BONUS
+- [ ] (2pts) User can tap a poster in the collection view to see a detail screen of that movie.
+- [ ] (2pts) In the detail view, when the user taps the poster, a new screen is presented modally where they can view the trailer.
+
+### App Walkthrough GIF
+
+
+
+<img src="![ezgif com-gif-maker (2)](https://user-images.githubusercontent.com/73719778/132409220-4abab476-e7ee-466f-895a-7d7ed5e257d1.gif)" width=250><br>
+
+### Notes
+Describe any challenges encountered while building the app.
