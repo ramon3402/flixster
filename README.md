@@ -11,10 +11,9 @@
 - [ ] (2pts) In the detail view, when the user taps the poster, a new screen is presented modally where they can view the trailer.
 
 ### App Walkthrough GIF
+![ezgif com-gif-maker (2)](https://user-images.githubusercontent.com/73719778/132409804-3851a7b5-b9be-4512-841c-45b1e198ba85.gif)
 
 
-
-<img src="![ezgif com-gif-maker (2)](https://user-images.githubusercontent.com/73719778/132409220-4abab476-e7ee-466f-895a-7d7ed5e257d1.gif)" width=250><br>
 
 ### Notes
-Describe any challenges encountered while building the app.
+Some of challenges that I encountered when creating my flixster app were connecting labels to the code becuase when I wanted to get the 2 windows side by side xcode would not do it. I reached out to ios help and they helped me fix the problem and also gave me tip in case it happens again in the future.  The solution was very easy incase it happened again I just simply had to close the app and open it again and most of the time it was fixed.  Another small challenge I encountered was just finding the way around xcode and getting familiar with the tools and how to use them.  Lastly submitting was not much a challenge but I realize I need to learn how to create a git , push , and commit in a faster time pace.
